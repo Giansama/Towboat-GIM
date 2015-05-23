@@ -2,4 +2,4 @@
 Projeto de criação de um barco em modelismo, para competição do grupo GIM. 
 Em conjunto com Ramon e Luiz Carlos.
 
-![alt tag](http://www.vac-u-boat.com/images/VacUTowPics/AndrewHongKong1.jpg)
+![alt tag](http://oi62.tinypic.com/2edqs08.jpg)
